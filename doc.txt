@@ -1,0 +1,9 @@
+color:
+    white        #FFF
+    dark orange  #E74040
+    orange       #FC724D
+    text color   #737373
+
+bg:
+    blue             #0061FF
+    lite blue        #b888f8

@@ -1,0 +1,80 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/* header start  */
+.home{
+    margin-left: 0px;
+}
+.login{
+    margin-left: 0px;
+}
+.btn_s{
+    /* width: 150px;
+    height: 75px; */
+    padding: 8px 17px;
+    margin-left: 10px;
+}
+
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* header start  */
+.home{
+    margin-left: 0px;
+}
+.login{
+    margin-left: 0px;
+}
+.btn_s{
+    /* width: 150px;
+    height: 75px; */
+    padding: 8px 17px;
+    margin-left: 10px;
+}
+
+
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* header start  */
+.home{
+    margin-left: 0px;
+}
+.login{
+    margin-left: 0px;
+}
+.btn_s{
+    /* width: 150px;
+    height: 75px; */
+    padding: 8px 17px;
+    margin-left: 10px;
+}
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/* header start  */
+.home{
+    margin-left: 53px;
+}
+.login{
+    margin-left: 140px;
+}
+.btn_s{
+    /* width: 150px;
+    height: 75px; */
+    padding: 10px 20px;
+    margin-left: 10px;
+}
+
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+            
+
+
+ }
