@@ -13,7 +13,84 @@
     padding: 8px 17px;
     margin-left: 10px;
 }
+.btn_s {
+    padding: 4px 8px;
+    margin-left: 10px;
+}
+.btn_c{
+    font-size: 7px;
+ }
+ /* banner start  */
 
+ .b_text h1 {
+    color: #FFF;
+    margin: 10px 0 20px;
+    padding-right: 25px;
+    Font-size: 36px;
+    font-weight: 700;
+    line-height: 50px;
+    font-style: normal;
+}
+.btn_g {
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+}
+.btn_h {
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 15px;
+}
+.activity {
+    padding: 34px 0px 50px;
+}
+/* field start  */
+.aa_img img {
+    width: 33%;
+    height: 66%;
+}
+.activity {
+    padding: 0px 0px 14px;
+}
+.f_text h2 {
+    
+    padding: 10px;
+    line-height: 19px;
+    
+}
+.f_text p {
+    color: #737373;
+    padding: 10px;
+    font-size: 14px;
+    line-height: 19px;
+}
+.banner_two {
+    padding: 30px 0px;
+}
+.t_img img {
+    margin-left: 45px;
+    
+}
+.c_input {
+    margin-left: 30px;
+}
+.c_input {
+    margin-left: 30px
+px
+;
+    height: 56px;
+    width: 260px;
+}
+.contact {
+    padding: 28px 0px;
+    text-align: center;
+}
+.f{
+    align-items: center;
+}
+footer {
+    padding-top: 5px;
+}
 }
 
 /* // Small devices (landscape phones, 576px and up) */
@@ -25,11 +102,31 @@
 .login{
     margin-left: 0px;
 }
-.btn_s{
-    /* width: 150px;
-    height: 75px; */
-    padding: 8px 17px;
+.btn_s {
+    padding: 4px 8px;
     margin-left: 10px;
+}
+.btn_c{
+    font-size: 7px;
+ }
+/* banner start  */
+.b_text{
+    align-items: center !important;
+} 
+.activity {
+    padding: 34px 0px 50px;
+}
+.f_text h2 {
+    
+    padding: 10px;
+    line-height: 19px;
+    
+}
+.f_text p {
+    color: #737373;
+    padding: 10px;
+    font-size: 14px;
+    line-height: 19px;
 }
 
 
@@ -44,13 +141,57 @@
 .login{
     margin-left: 0px;
 }
-.btn_s{
-    /* width: 150px;
-    height: 75px; */
-    padding: 8px 17px;
+
+.btn_s {
+    padding: 5px 10px;
     margin-left: 10px;
 }
+.btn_c{
+    font-size: 10px;
+ }
+/* banner start  */
+ .b_text{
+    align-items: center !important;
+} 
+/* activity start  */
+.activity {
+    padding: 34px 0px 50px;
+}
+.f_text h2 {
+    
+    padding: 10px;
+    line-height: 19px;
+    
+}
+.f_text p {
+    color: #737373;
+    padding: 10px;
+    font-size: 14px;
+    line-height: 19px;
+}
 
+.t_img img {
+    margin-left: 270px;
+    
+}
+.team_text h5 {
+    margin-right: 86px;
+}
+.team_text p {
+    margin-right: 86px;
+}
+.c_input {
+    height: 39px;
+    width: 468px;
+    padding: 15px 20px;
+    margin-left: 36px;
+}
+.c_input {
+    height: 55px;
+    width: 468px;
+    padding: 15px 20px;
+    margin-left: 36px;
+}
  }
 
 /* // Large devices (desktops, 992px and up) */
@@ -68,13 +209,67 @@
     padding: 10px 20px;
     margin-left: 10px;
 }
-
-
+.btn_c{
+    font-size: 11px;
  }
+ .activity {
+    padding: 32px 0 41px;
+}
+.feature {
+    padding-bottom: 0px;
+}
+
+.c_btn {
+    color: #FC724D;
+    display: flex;
+    padding: 4px 21px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 37px;
+    border: 1px solid #FC724D;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 27px;
+}
+.t_img img {
+    margin-left: 150px;
+    
+}
+.team_text {
+    padding: 15px;
+}
+.btn_s {
+    padding: 14px 20px;
+    margin-left: 156px;
+}
+.c_input {
+    margin-left: 155px;
+}
+ }
+ .btn_s {
+    padding: 14px 20px;
+    margin-left: 32px;
+}
 
 /* // Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
-            
+    .c_btn {
+        color: #FC724D;
+        display: flex;
+        padding: 4px 21px;
+        align-items: center;
+        gap: 10px;
+        border-radius: 37px;
+        border: 1px solid #FC724D;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 27px;
+    }     
 
-
+    .c_input {
+        height: 56px;
+        width: 639px;
+        padding: 15px 20px;
+        margin-left: 270px;
+    }
  }

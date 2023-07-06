@@ -12,7 +12,7 @@ $(document).ready(function(){
       
         // Scroll to the top when the button is clicked
         $('#topBtn').click(function() {
-          $('html, body').animate({ scrollTop: 0 }, 1000);
+          $('html, body').animate({ scrollTop: 0 }, 300);
           return false;
         });
       });
