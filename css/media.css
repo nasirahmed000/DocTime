@@ -91,6 +91,16 @@ px
 footer {
     padding-top: 5px;
 }
+.team_text h5 {
+    margin-right: 56px;
+}
+.team_text p {
+    margin-right: 56px;
+}
+.btn_s {
+    padding: 7px 4px;
+    margin-left: 16px;
+}
 }
 
 /* // Small devices (landscape phones, 576px and up) */
