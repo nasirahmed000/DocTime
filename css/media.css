@@ -109,6 +109,10 @@ footer {
     width: 483px;
     height: 300px;
 }
+.btn_c {
+    font-size: 7px;
+    margin-left: 32px !important;
+}
 }
 
 /* // Small devices (landscape phones, 576px and up) */
@@ -263,11 +267,13 @@ footer {
 .c_input {
     margin-left: 155px;
 }
- }
- .btn_s {
+/* .btn_s {
     padding: 14px 20px;
-    margin-left: 32px;
-}
+    margin-left: 100px;
+ 
+} */
+ }
+
 
 /* // Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
@@ -290,4 +296,5 @@ footer {
         padding: 15px 20px;
         margin-left: 270px;
     }
+
  }
