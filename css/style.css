@@ -84,7 +84,7 @@ header{
 }
 .btn_c:hover{
     color: #FFFFFF;
-    background-color:#b888f8;
+    background-color:#26335D;
 }
 /* header end  */
 /* banner start  */
@@ -208,10 +208,13 @@ header{
     line-height: 16px;
 
 }
-.field img{
+.a_img img{
+    
+}
+/* .field img{
     width: 457px;
     height: 535px;
-}
+} */
 .aa_img img{
     width: 70%;
     height: 70%;
@@ -231,6 +234,7 @@ header{
     box-shadow: 2px 4px 5px -2px rgba(168,158,158,0.75);
     -webkit-box-shadow: 2px 4px 5px -2px rgba(168,158,158,0.75);
     -moz-box-shadow: 2px 4px 5px -2px rgba(168,158,158,0.75);
+    transition: 0.7s;
 }
 .f_c{
     padding: 35px 40px;
@@ -276,8 +280,30 @@ header{
     padding-bottom: 100px;
 }
 .c_img{
-    width: 238px;
-    height: 300px;
+    background-image: url(../images/c2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg{
+    
+}
+.bgh{
+
+}
+.bg_btn {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px; 
+    background-color: #E74040;
+    padding: 0 10px;
+    }
+.bg ul li a img{
+    padding: 236px 0px 24px 10px;
+    
 }
 .c_text{
     padding: 25px 25px 25px 35px;
@@ -337,6 +363,9 @@ header{
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
+}
+.c_btn:hover{
+    background-color: #FC724D;
 }
 .arrow{
     margin-left: 13px;
