@@ -215,10 +215,27 @@ header{
     width: 457px;
     height: 535px;
 } */
-.aa_img img{
+/* .aa_h6{
+    color: #E74040;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px; 
+    letter-spacing: 0.1px;
+    background-color: #737373;
+    
+} */
+.point{
+    color: #E74040;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px; 
+    letter-spacing: 0.1px;
+    background-color: #ECECEC;
+    text-align: center;
+    padding: 13px 16px;
     width: 70%;
     height: 70%;
-    
+    border-radius: 50%;
 }
 .service{
     padding: 30px;
@@ -285,6 +302,30 @@ header{
     background-position: center;
     background-size: cover;
 }
+.c_img2{
+    background-image: url(../images/c3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.c_img3{
+    background-image: url(../images/c4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.c_img3{
+    background-image: url(../images/c4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.c_img4{
+    background-image: url(../images/c1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 .bg{
     
 }
@@ -301,6 +342,9 @@ header{
     background-color: #E74040;
     padding: 0 10px;
     }
+.bg_btn:hover{
+    background-color: #E74040;
+}
 .bg ul li a img{
     padding: 236px 0px 24px 10px;
     

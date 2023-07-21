@@ -37,9 +37,11 @@
     height: 30px;
 }
 .btn_h {
+    margin-left: 32px;
     font-size: 10px;
     font-weight: 700;
     line-height: 15px;
+    
 }
 .activity {
     padding: 34px 0px 50px;
@@ -111,7 +113,11 @@ footer {
 }
 .btn_c {
     font-size: 7px;
-    margin-left: 32px !important;
+    margin-left: 18px !important;
+}
+.point {
+    font-size: 25px;
+    padding: 39px 31px;
 }
 }
 
@@ -214,6 +220,10 @@ footer {
     padding: 15px 20px;
     margin-left: 36px;
 }
+.point {
+    padding: 13px 8px !important;
+   
+}
  }
 
 /* // Large devices (desktops, 992px and up) */
@@ -261,8 +271,8 @@ footer {
     padding: 15px;
 }
 .btn_s {
-    padding: 14px 20px;
-    margin-left: 156px;
+    padding: 5px 20px;
+    margin-left: 68px;
 }
 .c_input {
     margin-left: 155px;
@@ -272,6 +282,10 @@ footer {
     margin-left: 100px;
  
 } */
+.btn_s {
+    padding: 15px 20px;
+    margin-left: 58px;
+}
  }
 
 
@@ -294,7 +308,7 @@ footer {
         height: 56px;
         width: 639px;
         padding: 15px 20px;
-        margin-left: 270px;
+        margin-left: 145px;
     }
 
  }
